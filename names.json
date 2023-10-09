@@ -1,0 +1,4889 @@
+[
+    {
+        "filename": "22",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "33",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Abercrombie",
+        "skins": [
+            "Mischief on the Rocks",
+            "Pumpkin Blast!"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Abukuma",
+        "skins": [],
+        "retrofit": true
+    },
+    {
+        "filename": "Acasta",
+        "skins": [
+            "Fashionable Outing",
+            "Lights of the Lantern Festival",
+            "Monochromatic Marvel"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Achilles",
+        "skins": [],
+        "retrofit": true
+    },
+    {
+        "filename": "Admiral Graf Spee",
+        "skins": [
+            "Girl's Sunday",
+            "Peaceful Daily Life",
+            "World's Cutest",
+            "A Novel Anniversary"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Admiral Hipper muse",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Admiral Hipper",
+        "skins": [
+            "Sunshine by the Hot Spring"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Agano",
+        "skins": [
+            "Christmas Eve Tease",
+            "Dating Game",
+            "Blue Butterfly's Confession"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Ajax",
+        "skins": [
+            "Party Queen",
+            "Valentine's Reward"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Akagi muse",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Akagi-chan",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Akagi",
+        "skins": [
+            "Paradise Amaryllis",
+            "Plum and Snow",
+            "Precipice of Sweetness",
+            "Ruby-Laced Beauty",
+            "Wedding",
+            "Dawn-Phoenix's Summons"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Akane Shinjo",
+        "skins": [
+            "Room of Secrets",
+            "A Vacation Just for Two"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Akashi",
+        "skins": [
+            "The Black Cat Cometh!",
+            "Wedding",
+            "Welcome to AzurCon!",
+            "Welcome to Sofmap!",
+            "Akashi's in the Red, Nya!"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Akatsuki",
+        "skins": [
+            "Cirque de Ninjutsu!",
+            "Motoninja Akatsuki",
+            "Santa's Lost Helper!",
+            "Akatsuki Goes North"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Alabama",
+        "skins": [
+            "Untarnished Silver, Silken Gold"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Albacore muse",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Albacore",
+        "skins": [
+            "Beneath the Black Dress",
+            "A Catty Surprise!"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Albion",
+        "skins": [
+            "Silvermoon Faerie Princess"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Alfredo Oriani",
+        "skins": [
+            "Vivacious Vivace"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Algerie META",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Algerie",
+        "skins": [
+            "Red Queen's Decree",
+            "White Sand Paradise"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Allen M. Sumner",
+        "skins": [
+            "Charming Rabbit"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Amagi-chan",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Amagi",
+        "skins": [
+            "Red Kite Respite",
+            "Wending Waters, Serene Lotus"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Amazon",
+        "skins": [
+            "Little Orchestra"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Ami Futami",
+        "skins": [
+            "Summer Flowers and Sizzling Beats"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "An Shan",
+        "skins": [
+            "Setting Sun, Hearts as One",
+            "The Cornett of Peace"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Anchorage",
+        "skins": [
+            "Dolphins and Swim Lessons"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Andrea Doria",
+        "skins": [
+            "Have a Safe Flight"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Anniversary Kizuna AI",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Aoba",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Aquila",
+        "skins": [
+            "Sardegnian Shallows and Sunshine",
+            "A Sip of Sardegnian Elegance"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Arashio",
+        "skins": [
+            "The Gentlest Firework"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Archerfish",
+        "skins": [
+            "The Devil Next Door",
+            "Coquettish Bunny"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Ardent",
+        "skins": [
+            "Master Ardent",
+            "Ardent Valentine"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Arethusa",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Argus",
+        "skins": [
+            "Cerulean Enthrallment",
+            "A Hundred Sleepless Eyes"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Ariake",
+        "skins": [
+            "Unending Friendship"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Arizona META",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Arizona",
+        "skins": [
+            "Enchantress from Afar"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Ark Royal META",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Ark Royal",
+        "skins": [
+            "Coast Watcher",
+            "Guardian of the Ball",
+            "New Year's Protectress",
+            "Wedding",
+            "Cafe Lookout"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Arkhangelsk",
+        "skins": [
+            "Grandiose Getaway"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Asanagi",
+        "skins": [
+            "Lulled by Rough Seas"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Asashio",
+        "skins": [
+            "Robes of Dancing Clouds",
+            "Snow-Dusted Lynx Tips",
+            "The Transfer Student Underneath the Dancing Petals"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Ashigara",
+        "skins": [
+            "Kaleidoscopic Summer",
+            "Brief Intermission"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Astoria",
+        "skins": [
+            "Pure Gurl",
+            "Black Bunny Carnival"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Atago",
+        "skins": [
+            "Hallmarks of Winter",
+            "School Traumerei",
+            "Stunning Speedster",
+            "Summer March",
+            "Wedding"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Atlanta",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Attilio Regolo",
+        "skins": [
+            "Castle of Inspiration"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "August von Parseval",
+        "skins": [
+            "The Conquered Unhulde"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Aulick",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Aurora",
+        "skins": [
+            "Heritage of Yu City",
+            "The Tale of Spring",
+            "Wedding",
+            "Dawn's Paean"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Avrora",
+        "skins": [
+            "Not Cut Out For This",
+            "Shackled Saule"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Ayanami",
+        "skins": [
+            "Covert Ops Cloak",
+            "Disarming Deep Blue",
+            "Dynamic Kick!",
+            "Dynasty Shipgirl",
+            "Grade A Sailor Uniform",
+            "Low-Key Idol @Confused",
+            "Lunar Demon",
+            "NicoNico",
+            "Nightfall Raiment",
+            "Off-Duty Battle Station Gear",
+            "Pulse of the New Year",
+            "Rock 'n' Demon",
+            "Wedding",
+            "Witch in Ambush",
+            "Cola Fills You With Determination"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Aylwin",
+        "skins": [
+            "Sunday Aquarium Visit"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Azuma",
+        "skins": [
+            "Soft Voice of Spring",
+            "Wedding"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Azusa Miura",
+        "skins": [
+            "Midsummer Relaxation"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Bache",
+        "skins": [
+            "Gorgeous Speed-star",
+            "Showy Sports Star"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Bailey",
+        "skins": [
+            "Jolly Saint Bunnylass!",
+            "Trickster Black Rabbit"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Baltimore muse",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Baltimore",
+        "skins": [
+            "After-School Ace",
+            "Black Ace",
+            "Evening Breeze Minuet",
+            "Finish Line Flagbearer",
+            "Ace's Travel Journal"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Bataan",
+        "skins": [
+            "Comfy Cotton Jammies"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Beagle",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Belfast",
+        "skins": [
+            "Folded Fascination",
+            "Iridescent Rosa",
+            "Piping-Hot Perfection",
+            "Serene Steel",
+            "Shopping with the Head Maid",
+            "The Noble Attendant",
+            "Wedding"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Bellona",
+        "skins": [
+            "Armed to Clean"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Benson",
+        "skins": [
+            "Cutie Pumpkin Pie"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Biloxi",
+        "skins": [
+            "Empress in the Silk Seat",
+            "Night Sky's Brilliant Blue Blossoms",
+            "Romeo or Juliet",
+            "Dapper Gangstress"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Birmingham",
+        "skins": [
+            "Fruitful Snow of an Auspicious Year",
+            "Rider of Red",
+            "To Where the Wind Blows"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Bismarck Zwei",
+        "skins": [
+            "Crystal-Clear Holiday"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Bismarck",
+        "skins": [
+            "Iron-Black Elysium",
+            "Beacon of the Iron Blood"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Black Heart",
+        "skins": [
+            "Goddesses' Smile"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Black Prince",
+        "skins": [
+            "Fair Maid Spring",
+            "Pop the Cork",
+            "White Princess",
+            "Addled Attendant"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Blanc",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Bluegill",
+        "skins": [
+            "Up-And-Coming Infielder"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Blucher",
+        "skins": [
+            "High-Altitude Head Over Heels"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Bogue",
+        "skins": [],
+        "retrofit": true
+    },
+    {
+        "filename": "Boise",
+        "skins": [
+            "Jade Mermaid",
+            "Sheepish Sapphire",
+            "Castle Tales"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Bolzano",
+        "skins": [
+            "Tempting Treasure",
+            "A Flutter in the Moment"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Bon Homme Richard",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Bremerton",
+        "skins": [
+            "Kung Fu Cruiser",
+            "Relaxation Consultation",
+            "Scorching-Hot Training",
+            "Wedding",
+            "Day-Off Date"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Brest",
+        "skins": [
+            "Marine Muse"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Bristol",
+        "skins": [
+            "Tales from the Empery"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Brooklyn",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Brunhilde",
+        "skins": [
+            "Grain-Seizing Grani"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Bulldog",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Bunker Hill",
+        "skins": [
+            "Mission Relaxation"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Bush",
+        "skins": [
+            "Budding Painter"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Bearn",
+        "skins": [
+            "Summer Lifeguard"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "California",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Carabiniere",
+        "skins": [
+            "Refreshing Sundress"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Casablanca",
+        "skins": [
+            "Cheer Squad on Break"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Cassin",
+        "skins": [
+            "Shopping Carte Blanche"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Cavalla",
+        "skins": [
+            "Convenience Store Raid!",
+            "Colorful Ceremony"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Centaur",
+        "skins": [
+            "Sprightly Spring Wind",
+            "Beachside Undine"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Champagne",
+        "skins": [
+            "Lapis Lazuli's First Dream",
+            "Wedding"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Chang Chun",
+        "skins": [
+            "Fortune Arrives in Red",
+            "The Joy of Spring"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Chao Ho",
+        "skins": [
+            "Frolicking Flowers, Verse II",
+            "Plum Blossom's Illumination"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Chapayev",
+        "skins": [
+            "Indigo & Lantern-Lit Summer Night",
+            "Melody of the White Cavalier",
+            "The Captive Cavalier",
+            "White Cavalier's Respite"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Charles Ausburne",
+        "skins": [],
+        "retrofit": true
+    },
+    {
+        "filename": "Charybdis",
+        "skins": [
+            "Prim Sea Breeze",
+            "Red Chamber of Healing",
+            "Brilliant Belle"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Chaser",
+        "skins": [
+            "Gamer Style",
+            "The Way of the Dragon Empery"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Chen Hai",
+        "skins": [
+            "Vestibule of Wonders",
+            "Cerulean Ripples"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Cheshire",
+        "skins": [
+            "Summery Date!",
+            "The Cat and the White Steed",
+            "Cait Sith Crooner"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Chicago",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Chihaya Kisaragi",
+        "skins": [
+            "Reflections of Heavenly Flowers"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Chikuma",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Chise Asukagawa",
+        "skins": [
+            "Laundry Day",
+            "Together, Swimming through the Sky"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Chitose",
+        "skins": [
+            "Mosaic of Blending Colors",
+            "Summer Shine"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Chiyoda",
+        "skins": [
+            "Shimmering Surf"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Chkalov",
+        "skins": [
+            "Seaside Sunset"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Choukai",
+        "skins": [
+            "Tidy Store, Tidy Mind"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Clemenceau",
+        "skins": [
+            "Splendid Breeze"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Clevelad",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Cleveland muse",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Cleveland",
+        "skins": [
+            "Gentry Knight",
+            "Golden Conductor",
+            "New Year's Challenge!",
+            "Reaper Fever",
+            "Road Trip!",
+            "Southbound Journey",
+            "Wedding"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Colorado",
+        "skins": [
+            "Traveling Melody"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Columbia",
+        "skins": [
+            "After-School Odette",
+            "Across the Vast Prairies"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Comet",
+        "skins": [],
+        "retrofit": true
+    },
+    {
+        "filename": "Concord",
+        "skins": [
+            "Red Apple Candy",
+            "SweetChristmas"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Conte di Cavour",
+        "skins": [
+            "Fierce Beachside Battle"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Cooper",
+        "skins": [
+            "Heartwarming Holiday Hearth",
+            "Blazing Tennis Battle"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Craven",
+        "skins": [
+            "Cheerleader On The Playground"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Crescent",
+        "skins": [],
+        "retrofit": true
+    },
+    {
+        "filename": "Curacoa",
+        "skins": [
+            "Eastern Grace"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Curlew",
+        "skins": [
+            "Rhythm of the Dragon Empery"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Cygnet",
+        "skins": [
+            "Holy Night's Hymn",
+            "Royal Fanfare",
+            "Sea Star on Shore",
+            "Winter Date",
+            "An Offer To Be Maid"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Dace",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Denver",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Deutschland",
+        "skins": [
+            "Demon Princess' Dark Hour Banquet",
+            "Lantern-Lit Ruler",
+            "Service Time!",
+            "Dark Demon Princess"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Dewey",
+        "skins": [
+            "Summer Longing",
+            "A Christmas Thank-You"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Dido u",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Dido",
+        "skins": [
+            "Anxious Bisque Doll"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Dorsetshire",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Downes",
+        "skins": [
+            "Part-Time Bomber"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Drake",
+        "skins": [
+            "The Golden Hind's Respite"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Duca degli Abruzzi",
+        "skins": [
+            "Lustrous Onyx Sirenetta"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Duke of York",
+        "skins": [
+            "Eternal Night's Carola",
+            "Prestige of the Glorious Formula"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Dunkerque",
+        "skins": [
+            "Summer Sucre",
+            "Afternoon Venus"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Eagle ",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Eagle",
+        "skins": [
+            "Eagle's Clinic"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Echo",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Edinburgh",
+        "skins": [
+            "The Library Fairy",
+            "Candy Maid"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Elbe",
+        "skins": [
+            "Pure-Hearted Bad Girl",
+            "Time to Show Off"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Elbing",
+        "skins": [
+            "Sleepless Night's Wishes",
+            "The Throne of Misfortune"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Eldridge",
+        "skins": [
+            "Holy Night's Embrace",
+            "Kitty Idol",
+            "Moon Festival Spacewalk",
+            "New Year's Outing",
+            "The Inquisitive Recluse"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Elegant Kizuna AI",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Emanuele Pessagno",
+        "skins": [
+            "Backstage Blunders"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Emden",
+        "skins": [
+            "Moonsilver Union",
+            "White-Black Partita"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Enterprise (HMS)",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Enterprise META",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Enterprise",
+        "skins": [
+            "Blooming Peony",
+            "Bon Voyage",
+            "Diving Under Blue Skies",
+            "Heroic Finery",
+            "Reindeer Master",
+            "Soaring Wings of Freedom",
+            "Wedding",
+            "Wind Catcher",
+            "Anniversary Ride"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Erebus",
+        "skins": [
+            "Illusory Happiness",
+            "Wardrobe Witchery"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Eskimo ",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Eskimo",
+        "skins": [
+            "Parkaless Prankster"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Essex",
+        "skins": [
+            "Brush and Ink",
+            "Craft Fairytail",
+            "Crossbones Especial",
+            "Detective Essex",
+            "The Gale of Course 88",
+            "A Trip Down Route 66"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Exeter",
+        "skins": [
+            "A Glorious Toast"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Felix Schultz",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Fiji",
+        "skins": [
+            "Trendy and Vogue"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Flandre",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Fletcher",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Foch",
+        "skins": [
+            "Majestic Majordomo",
+            "Rainbow Rendezvous"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Foote",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Forbin",
+        "skins": [
+            "Feast of Champagne",
+            "Fleur Blanche",
+            "Wedding",
+            "Ecole de Chevalier"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Formidable",
+        "skins": [
+            "The Lady of the Beach",
+            "Timeless Classics"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Fortune META",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Fortune",
+        "skins": [
+            "Seraphic Sunshine"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Foxhound",
+        "skins": [],
+        "retrofit": true
+    },
+    {
+        "filename": "Friedrich der Grosse",
+        "skins": [
+            "Wedding",
+            "Dark Raiments of Gagaku"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Fu Shun",
+        "skins": [
+            "The Unbreakable Baozi Heist"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Fubuki",
+        "skins": [
+            "Fubuki Halation!",
+            "Mascot Bucky",
+            "Music Pixy",
+            "Stormy Waitress-in-Training!",
+            "5 Minutes Till I'm Late"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Fumiruiru",
+        "skins": [
+            "Fumiruiru (Utawarerumono)"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Fumizuki",
+        "skins": [
+            "Sleepy Fairy"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Furutaka",
+        "skins": [],
+        "retrofit": true
+    },
+    {
+        "filename": "Fusou META",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Fusou",
+        "skins": [
+            "Perfect Partner",
+            "The Celebration of Spring"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Galatea",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Gangut",
+        "skins": [
+            "Imposing Warden",
+            "Keeper of the Firewater"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Gascogne muse",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Gascogne",
+        "skins": [
+            "Tropical Environs Acclimation Service Equipment"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Georgia",
+        "skins": [
+            "Exalted Vibrance",
+            "Lanier Swan",
+            "South Town Pearl"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Giulio Cesare",
+        "skins": [
+            "Fitness Master",
+            "High Tide Under the Sunlight"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Giuseppe Garibaldi",
+        "skins": [
+            "Noble Ivory Plumes"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Glasgow",
+        "skins": [
+            "A Maid in Class"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Glorious",
+        "skins": [
+            "Glorious School Life",
+            "Pungent Plum"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Gloucester",
+        "skins": [
+            "Brilliance in Purple"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Glowworm",
+        "skins": [
+            "Jokey Adjudicator"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Gneisenau META",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Gneisenau",
+        "skins": [
+            "Nightmarish Succubus"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Gorizia",
+        "skins": [
+            "Unrequited Office Love"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Graf Zeppelin",
+        "skins": [
+            "Beachside Urd"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Green Heart",
+        "skins": [
+            "Goddesses' Moment"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Gremyashchy",
+        "skins": [
+            "A Daytime Delight is in a Book"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Grenville",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Gridley",
+        "skins": [
+            "Christmas Photoshoot"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Gromky",
+        "skins": [
+            "Morning's Beckoning"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Grozny",
+        "skins": [
+            "Bunny in the Banya",
+            "Bunny Remodeling Plan",
+            "Shadowy Syndicate Showdown",
+            "Tea Party with Krolik",
+            "Bad Bunny Behind Bars"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Guichen",
+        "skins": [
+            "Sorciere on Ice"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Haguro",
+        "skins": [
+            "Caught By Nightfall",
+            "A Blessing in Disguise"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Hai Chi",
+        "skins": [
+            "A Dance Among the Lotuses"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Hai Tien",
+        "skins": [
+            "Soaring Apsaras",
+            "Verse-Weaver at the Water's Edge"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Hakuryuu",
+        "skins": [
+            "Flash of Silk and Strings",
+            "Slice, Dice, and Serve"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Halsey Powell",
+        "skins": [
+            "Spring's Lucky Star"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Hamakaze",
+        "skins": [
+            "The Honors Student",
+            "The Secret Ingredient is Love!"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Hammann II",
+        "skins": [
+            "Another Rebellious Summer"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Hammann",
+        "skins": [
+            "Hammanyan Pawnch!",
+            "Holy Night Surprise!",
+            "Prideful Fairy of the Ballroom",
+            "Rebellious Summer"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Hanazuki",
+        "skins": [
+            "Morning Moon, Beachside Flower",
+            "Blossoming Spring, Resplendent Moon"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Harbin",
+        "skins": [
+            "Union Between Sea and Sky",
+            "Wedding"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Hardy",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Haruka Amami",
+        "skins": [
+            "A Taste of Tranquility"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Haruna",
+        "skins": [
+            "Free Time Before Class",
+            "Scarlet Innocence",
+            "The Elegant Lotus"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Harutsuki",
+        "skins": [
+            "A Dance for the Coming Spring"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Hass",
+        "skins": [
+            "Seaside Scoop!"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Hatakaze META",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Hatakaze",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Hatsuharu",
+        "skins": [
+            "Hatsuharu in the Limelight",
+            "Snow Day Hatsuharu"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Hatsushimo",
+        "skins": [
+            "Perennial Joy"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Hatsuzuki",
+        "skins": [
+            "August's First Romance"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Hazelwood",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Helena META",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Helena",
+        "skins": [
+            "May I Have this Dance",
+            "New Year's Bluebird",
+            "Shimmering Triangle Wave",
+            "Wedding"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Hermann Kunne (Z19)",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Hermes",
+        "skins": [],
+        "retrofit": true
+    },
+    {
+        "filename": "Hermione ",
+        "skins": [
+            "Wedding"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Hermione",
+        "skins": [
+            "Graceful Afternoon Tea",
+            "Pristine Herbalist",
+            "Pure White Angel",
+            "Pure White Holiday"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Hero",
+        "skins": [
+            "The Devil Wears Knee-Highs"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Hibiki",
+        "skins": [
+            "New Year's Little Imp"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Hiei-chan",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Hiei",
+        "skins": [
+            "Fragrant Red Plum",
+            "Moonlit Cruise",
+            "Beauty of the White Sands"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Hindenburg",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Hiryuu META",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Hiryuu",
+        "skins": [
+            "After School Bullies"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Hiyou META",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Hiyou",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Hobby",
+        "skins": [
+            "Little Idol Schoolgirl"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Honoka",
+        "skins": [
+            "Summer Angel on the Shore"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Honolulu",
+        "skins": [
+            "Manjuu Mischief",
+            "Summer Accident!",
+            "Umbrella Girl",
+            "Among the Stalls"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Hood",
+        "skins": [
+            "Gentlewoman and Stallion",
+            "Lady of the Shining Sun",
+            "Porcelain Grace",
+            "Wedding",
+            "Dawnlight's Dame"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Hornet II",
+        "skins": [
+            "Racing Across the Waves!"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Hornet",
+        "skins": [
+            "Cheering Justice!",
+            "Freshly-Baked Bonding!",
+            "Bubbly Anniversary!"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Houshou",
+        "skins": [
+            "The Dream of the Autumn Pillow"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Houston",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Howe",
+        "skins": [
+            "Evening Marvels",
+            "Noble Rouge",
+            "Pastry Princess"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Hunter META",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Hunter",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Hwah Jah",
+        "skins": [
+            "The Festive Undead"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Hyuuga",
+        "skins": [],
+        "retrofit": true
+    },
+    {
+        "filename": "I-13",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "I-168",
+        "skins": [
+            "Festive Mood!"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "I-19",
+        "skins": [
+            "Departure's Gentle Breeze",
+            "Pillowy Paradise",
+            "Blossoming Bunny"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "I-25",
+        "skins": [
+            "Sweet Wine of Celebration",
+            "Coral Reef Bunny"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "I-26",
+        "skins": [
+            "Shortly Before the Fireworks",
+            "Deep-Sea Rabbit"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "I-56",
+        "skins": [
+            "Wallflower in the Corner"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "I-58",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Ibuki",
+        "skins": [
+            "Snow on the Wind",
+            "Tranquil Sunya",
+            "Winter Sylph's Reverie",
+            "Arrival of Spring"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Icarus",
+        "skins": [
+            "Nereid's Discovery",
+            "One-Week Medical Experience ",
+            "At Your Service"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Ikazuchi",
+        "skins": [
+            "Sakura Tea",
+            "Thunderous Festival",
+            "Dawn's Thunder"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Illustrious muse",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Illustrious",
+        "skins": [
+            "Illustrious Ball",
+            "Lambent Melody",
+            "Maiden Lily's Radiance",
+            "Never-Ending Tea Party",
+            "Resplendent Hibiscus",
+            "Wedding"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Impero",
+        "skins": [
+            "Languid Librarian"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Implacable",
+        "skins": [
+            "Shepherd of the Lost"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Inazuma",
+        "skins": [
+            "Dusk's Lightning",
+            "Flash of Fireworks",
+            "Vanilla Pudding"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Independence",
+        "skins": [
+            "Liberty and Leisure",
+            "The Independent Line",
+            "The Tailwind of Opportunity",
+            "Transfer Student From Afar"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Indianapolis",
+        "skins": [
+            "The Light of Circle City",
+            "At School With My Sister..."
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Indomitable",
+        "skins": [
+            "Ms. Motivationless Maid"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Ingraham",
+        "skins": [
+            "Fixin' for a Mixin'"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Intrepid",
+        "skins": [
+            "One Intrepid Pitch"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Iori Minase",
+        "skins": [
+            "A Little Evening Secret"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Ise",
+        "skins": [],
+        "retrofit": true
+    },
+    {
+        "filename": "Isokaze",
+        "skins": [
+            "New Year's Campaign",
+            "SengokuSmasher!"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Isuzu",
+        "skins": [
+            "Charge, My Trusty Steeds!",
+            "Cozy Christmas Eve",
+            "Night of Fairy Tale",
+            "Accidental Overheat"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Izumo",
+        "skins": [
+            "Izumo's Thousand Cherry Trees"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Jade",
+        "skins": [
+            "A Lick of Summer"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Jamaica",
+        "skins": [
+            "Highway Star",
+            "Dark Bolt"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Janus",
+        "skins": [
+            "Fear of Changing... Clothes",
+            "Fright-Night Scaredy-Cat"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Javelin",
+        "skins": [
+            "A Legend is Born!",
+            "Beach Picnic!",
+            "Bili Girl 22",
+            "Energetic Idol @120% Motivation!",
+            "Let's Become Waitresses!",
+            "Operation Pillow Fight!",
+            "Slow Ahead!",
+            "Wedding",
+            "A Different Dance"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Jean Bart",
+        "skins": [
+            "First Snow Upon the Cutlass's Edge",
+            "Private Apres Midi",
+            "Uninhibited Bloodstone"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Jeanne d'Arc",
+        "skins": [
+            "Saintess of the Sea"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Jenkins",
+        "skins": [
+            "Light of the Holiest Star"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Jersey",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Jervis",
+        "skins": [
+            "Fluttering in the Fair Breeze"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Jintsuu META",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Jintsuu",
+        "skins": [
+            "The Gray Wolf's Ploy",
+            "The Tactician's Vacation"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Joffre",
+        "skins": [
+            "Ensorcelled Snow White",
+            "Sublime Elysium"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Juneau",
+        "skins": [
+            "In the Swan Garden"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Juno",
+        "skins": [
+            "Fairly Flavourful Festival"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Junyou META",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Junyou",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Jupiter",
+        "skins": [
+            "Fanclub Sleepover"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Kaga(BB)",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Kaga",
+        "skins": [
+            "Dusk-Simurgh's Vigil",
+            "Everlasting Killing Stone",
+            "Exalted White Wings",
+            "Gentle Blossom's Sigh",
+            "Snowsilk Fox Dance",
+            "Wedding",
+            "White Fox's New Year"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Kagerou",
+        "skins": [
+            "Pumpkins and Festivities!"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Kako",
+        "skins": [],
+        "retrofit": true
+    },
+    {
+        "filename": "Kala Ideas",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Kalk",
+        "skins": [
+            "Snow Fairy Schoolgirl"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Kamikaze",
+        "skins": [],
+        "retrofit": true
+    },
+    {
+        "filename": "Karl Galster (Z20)",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Karlsruhe",
+        "skins": [],
+        "retrofit": true
+    },
+    {
+        "filename": "Kashino",
+        "skins": [
+            "Hot Springs Relaxation",
+            "Maid for Mayhem",
+            "Robust Floral Strings"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Kasumi (DoA)",
+        "skins": [
+            "Springside Mist"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Kasumi",
+        "skins": [
+            "New Year's Comfort",
+            "At School with Foo"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Katsuragi",
+        "skins": [
+            "Night-Illuminating Festival",
+            "Shallow-Water Leisure"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Kawakaze",
+        "skins": [
+            "Monochromatic Interlude",
+            "Wedding"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Kazagumo",
+        "skins": [
+            "Placid Waves, Passionate Heart",
+            "After-School Melody"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Kearsarge",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Kent",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Kersaint",
+        "skins": [
+            "Reverent Runner"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Kiev",
+        "skins": [
+            "Vila of the Crystal Lake",
+            "Backstreet Silver Sonata"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Kii",
+        "skins": [
+            "Poolside Persuasion"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Kimberly",
+        "skins": [
+            "Style of the East"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "King George V",
+        "skins": [
+            "Rose's Regalia"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Kinugasa",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Kinu",
+        "skins": [
+            "New Year's Blade Demon",
+            "Token and Ghost"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Kirishima",
+        "skins": [
+            "Casual Dazzle",
+            "Graceful Ink Incense",
+            "Summery Audacity",
+            "After-School Cannon Time"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Kirov",
+        "skins": [
+            "Drifting Justice",
+            "High Jump Star",
+            "Blend R"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Kisaragi",
+        "skins": [
+            "New Year's Wish"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Kitakaze",
+        "skins": [
+            "Night of Doves and Magic",
+            "Celebration Conquest!"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Kiyonami",
+        "skins": [
+            "Festive Riding Hood"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Kizuna AI",
+        "skins": [
+            "Festive Kizuna AI"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Klaudia Valentz",
+        "skins": [
+            "Bedtime Memories"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Kongou",
+        "skins": [
+            "Hospital Talent",
+            "The Beauties of Nature",
+            "Breezy Commute"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Kronshtadt",
+        "skins": [
+            "Begin the Rush!"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Kumano",
+        "skins": [
+            "Fancy Waves ",
+            "One Thousand and One Nights' Wishes",
+            "PJ Poker Party"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Kuon",
+        "skins": [
+            "Kuon (Utawarerumono)"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Kuroshio",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Kursk",
+        "skins": [
+            "Lone Wolf Amid the Steam"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Kuybyshev",
+        "skins": [
+            "Maestro of Sterling Strings"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Koln",
+        "skins": [],
+        "retrofit": true
+    },
+    {
+        "filename": "Konigsberg",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "L'Indomptable",
+        "skins": [
+            "Little Red Riding Hood's Worries",
+            "Temp in Low Temperatures"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "L'Opiniatre",
+        "skins": [
+            "Beachside Magician"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "La Galissonniere META",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "La Galissonniere",
+        "skins": [
+            "Lush Spring Dreams",
+            "Pristine Piscene",
+            "Black Cat of All Hallows' Eve"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Laffey II",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Laffey",
+        "skins": [
+            "Bunny Clerk",
+            "Bunny Idol @Unmotivated",
+            "Lazy Days",
+            "Picnic Adventure",
+            "Sleep to Clean Another Day",
+            "Sleepageddon",
+            "Sleepy Teriyaki Twister",
+            "Snow Rabbit and Candy Apple",
+            "Wedding",
+            "White Rabbit Welcomes the Spring",
+            "Bili Girl 33"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Langley II",
+        "skins": [
+            "On-the-Clock Vacation"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Langley",
+        "skins": [],
+        "retrofit": true
+    },
+    {
+        "filename": "Le Malin muse",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Le Malin",
+        "skins": [
+            "Listless Lapin",
+            "Mercredi at the Secret Base",
+            "Sleepy Sunday"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Le Mars",
+        "skins": [
+            "Splendorous Debut",
+            "Ecoliere Heureuse",
+            "Ete Brillant"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Le Terrible",
+        "skins": [
+            "Silence, Slumber, and Solace",
+            "Sunlight, Seaspray, and Sanctity"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Le Triomphant",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Le Temeraire",
+        "skins": [
+            "Dreamy Dolce",
+            "Summery Temeraire!"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Leander",
+        "skins": [],
+        "retrofit": true
+    },
+    {
+        "filename": "Leberecht Maass (Z1)",
+        "skins": [
+            "Rebellious Top Student"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Leipzig",
+        "skins": [
+            "Storefront Training"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Lena",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Leonardo da Vinci",
+        "skins": [
+            "Riverside Pirouette"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Lexington",
+        "skins": [
+            "The Beauty of Spring"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Li'l Sandy",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Libeccio",
+        "skins": [
+            "Beachbound Southwestern Wind!"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Lila Decyrus",
+        "skins": [
+            "Moonlit Encounter"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "lingbo",
+        "skins": [
+            "3"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Little Bel",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Little Cheshire",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Little Enterprise",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Little Formidable",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Little Illustrious",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Little Prinz Eugen",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Little Renown",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Little Spee",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Littorio",
+        "skins": [
+            "Lounging Emerald",
+            "Sitting in the Rain",
+            "The Glory of Naples",
+            "Calabria Aurea"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "London",
+        "skins": [
+            "The Sterling Secretary",
+            "Wedding"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Long Island",
+        "skins": [
+            "Long Island - Indoor Slacker",
+            "Long Island's Spooky Stream"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Luna",
+        "skins": [
+            "Venus of the Beach"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Lyon",
+        "skins": [
+            "Paired Exercise"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Lutzow",
+        "skins": [
+            "Everlasting Blood Banquet",
+            "Steaming-Hot Treat",
+            "Wedding"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Maestrale",
+        "skins": [
+            "Lonesome Beachfarer"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Magdeburg",
+        "skins": [
+            "Gone Fishing",
+            "Cat Cafe Cleanup"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Maille Breze",
+        "skins": [
+            "Sugary Sabbatical",
+            "The Noble Knight's Last Stand"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Mainz",
+        "skins": [
+            "The Silkiest Brew"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Makinami",
+        "skins": [
+            "Time for School!"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Mami Futami",
+        "skins": [
+            "Alluring Festival"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Manchester",
+        "skins": [
+            "Midnight Devil in White",
+            "A Moment in the Shade"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Marblehead",
+        "skins": [
+            "Charmer in the Snowy Reflection",
+            "Moongazing on the 29 1/2th",
+            "Not-So-Serendipitous Rain",
+            "Boxing Girl!"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Marco Polo",
+        "skins": [
+            "The Queen of Hearts"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Marie Rose",
+        "skins": [
+            "Devilish Servant Against the Splashing Waves",
+            "Steamy Venus"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Marseillaise",
+        "skins": [
+            "Fighting Angel's Regimen"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Maryland",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Massachusetts",
+        "skins": [
+            "Dressed to Impress"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Matchless",
+        "skins": [
+            "Escort Me Please!"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Matsukaze",
+        "skins": [],
+        "retrofit": true
+    },
+    {
+        "filename": "Maury",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Maya",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "McCall",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Memphis META",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Memphis",
+        "skins": [
+            "Casual Vacation",
+            "Mystical Night",
+            "A Breath of Fresh Air"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Michishio",
+        "skins": [
+            "Fluttering Fanfare"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Mikasa",
+        "skins": [
+            "Beauty in Indigo",
+            "Blossom-Viewing Season",
+            "Reverence for Rest and Relaxation",
+            "Style of the Sakura Capital",
+            "Wedding",
+            "A Romantic Respite"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Mikazuki",
+        "skins": [
+            "Sweet Zombie"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Mikuma",
+        "skins": [
+            "Offerings of Floral Grace"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Minato Aqua",
+        "skins": [
+            "Marine Maid"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Minazuki",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Minneapolis",
+        "skins": [
+            "eXtreme Games",
+            "Holy Night Ride",
+            "Wedding",
+            "Wild Huntress Schoolgirl"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Minsk",
+        "skins": [
+            "Thunderous Jailor"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Misaki",
+        "skins": [
+            "Golden Photoshoot"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Miyuki",
+        "skins": [
+            "Shopping Rendezvous"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Mogami",
+        "skins": [],
+        "retrofit": true
+    },
+    {
+        "filename": "Monarch",
+        "skins": [
+            "White Warrick",
+            "Black Gerard"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Monica",
+        "skins": [
+            "The Ace of Hearts"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Montpelier",
+        "skins": [
+            "Flower of the Snowy Night",
+            "Persephone's Throne"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Morrison",
+        "skins": [
+            "Sleeping Bunny"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Mujina",
+        "skins": [
+            "Golden Promenade"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Mullany",
+        "skins": [
+            "Eastern Etiquette"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Murasaki Shion",
+        "skins": [
+            "Virtual Magician"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Murmansk",
+        "skins": [
+            "Sceneries of Pure Snow"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Musashi",
+        "skins": [
+            "Violet Moonglow"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Musketeer",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Mutsuki",
+        "skins": [
+            "Mr. Reindeer, Depart!",
+            "Spring Festival Sweets",
+            "Candy Festival!"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Mutsu",
+        "skins": [
+            "Warring States Warship",
+            "A Maid's Mis-service"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Myoukou",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Nachi",
+        "skins": [],
+        "retrofit": true
+    },
+    {
+        "filename": "Naganami",
+        "skins": [
+            "Long Waves of Happiness",
+            "Long-Awaited Warmth",
+            "Nestling Up for the Long Nights",
+            "Wedding"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Nagara",
+        "skins": [
+            "Spring Breeze Leisure"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Nagato",
+        "skins": [
+            "Great Fox's Respite",
+            "Guardian Fox's Procession",
+            "Guardian Fox's Shining Furisode",
+            "Guardian Fox's Vacation",
+            "Wedding"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Nagatsuki",
+        "skins": [
+            "Dangerous Kitty Maid"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Nagisa",
+        "skins": [
+            "Blue Skies, Good Vibes"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Naka",
+        "skins": [
+            "Foxy Summer Surfer"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Nakiri Ayame",
+        "skins": [
+            "Summertime Nakiri"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Namiko",
+        "skins": [
+            "Miss Street-Wise"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Natori",
+        "skins": [
+            "Beach Paradise"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Natsuiro Matsuri",
+        "skins": [
+            "Matsuri's Day Off"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Nautilus",
+        "skins": [
+            "Shining Blossom in the Deep Blue",
+            "Afternoon Stretches"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Nekone",
+        "skins": [
+            "Nekone (Utawarerumono)"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Nelson",
+        "skins": [
+            "Luna Witch",
+            "Azure & Gold Summer Night"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Neptune (Neptunia)",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Neptune",
+        "skins": [
+            "Nereid's Invitation",
+            "Princess of the Reindeers"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Nevada",
+        "skins": [
+            "A Magnificent Banquet"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "New Jersey",
+        "skins": [
+            "Exhilarating Steps!",
+            "Midsummer Leisure",
+            "Wedding"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "New Orleans",
+        "skins": [
+            "Evening Agricole"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Newcastle",
+        "skins": [
+            "Hibiscus Garments"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Nicholas",
+        "skins": [
+            "Nurse Nicholas",
+            "Summer Cleaning Volunteer",
+            "Surprise!",
+            "After-School Promise"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Nicoloso da Recco",
+        "skins": [
+            "To a Smashing Voyage!"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Niizuki",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Ning Hai",
+        "skins": [
+            "Dragon Sisters! -N",
+            "Gorgeous Violet",
+            "Moon Palace Rabbit",
+            "Springtime Sojourn",
+            "Summer Hunger",
+            "Da Bao's Friend!"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Noire",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Norfolk",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "North Carolina",
+        "skins": [
+            "The Heart's Desire"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Northampton II",
+        "skins": [
+            "Swimming Star"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Northampton",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Noshiro",
+        "skins": [
+            "Fragrance of the Eastern Snow",
+            "Hold the Ice",
+            "Uncharted Festival Grounds",
+            "Unwinding in the Sunshine",
+            "Wedding",
+            "Xanadu's Eventide",
+            "Cozy Enclave"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Nowaki",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Nyotengu",
+        "skins": [
+            "Scarlet-Tinged Hot Spring Vacation"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Nurnberg",
+        "skins": [
+            "Spring Wanderer"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Observer zero",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Observer ",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Odin",
+        "skins": [
+            "Black Strokes upon Blank Snow"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Oite",
+        "skins": [
+            "Jet Ink, Silver Quills",
+            "Summer Dedication"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Oklahoma",
+        "skins": [
+            "Piratey Transformation!"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Omaha",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Omitter",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Ookami Mio",
+        "skins": [
+            "Summer Vacation"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Ooshio",
+        "skins": [
+            "Let's 'ave Lunch",
+            "The Reindeer's Present",
+            "Woozy Party",
+            "Bringer of Fortunes"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Otto von Alvensleben",
+        "skins": [
+            "Hunter Becomes Hunted"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Owari",
+        "skins": [
+            "Shimmering Forsythia"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Oyashio",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Painleve",
+        "skins": [
+            "Team Stretching"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Pamiat' Merkuria",
+        "skins": [
+            "Chic and Cheeky",
+            "Mercurial Chocolate Love",
+            "Sweet Cherry Memories",
+            "Caged Minx"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Patricia Abelheim",
+        "skins": [
+            "Rest Betwixt Dreams and Reality"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Penelope",
+        "skins": [
+            "Ruby-Red Boudoir",
+            "Salty Maid"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Pennsylvania",
+        "skins": [
+            "The Keystone General"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Pensacola",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Perseus",
+        "skins": [
+            "Unfamiliar Duties"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Peter Strasser",
+        "skins": [
+            "Chronos's Kalendae",
+            "A Moment Frozen in Pure White"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Phoenix",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Ping Hai",
+        "skins": [
+            "Delicious Crimson",
+            "Dragon Sisters! -P",
+            "Great Gourmet Expedition",
+            "Osmanthus Moon Rabbit",
+            "Summer Vacation",
+            "Baobao's Buddy!"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Plymouth",
+        "skins": [
+            "Heart-Throbbing Refreshment"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Pola",
+        "skins": [
+            "Seaside Coincidence"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Pompeo Magno",
+        "skins": [
+            "Quaver Daydream"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Portland",
+        "skins": [
+            "At School With Indy!"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Prince of Wales",
+        "skins": [
+            "Sakura Elegance",
+            "Sun Shining Upon Windsor",
+            "The Laureate's Victory Lap",
+            "A Knight's Song, a Lady's Night"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Princess Hime",
+        "skins": [
+            "Nightcap Time"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Princeton META",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Princeton",
+        "skins": [
+            "Gift-Wrapped Reindeer",
+            "Lolipop Paradise",
+            "Seaside Training"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Prinz Adalbert",
+        "skins": [
+            "After-Hours Service"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Prinz Eugen",
+        "skins": [
+            "Final Lap",
+            "Kindred Evening Spirits",
+            "Profusion of Flowers",
+            "Unfading Smile",
+            "Wedding",
+            "Cordial Cornflower"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Prinz Heinrich",
+        "skins": [
+            "Fireworks and Tapestries",
+            "Heinrich on Stage",
+            "Rabbit on Watch",
+            "Secret Boss o' the Underworld"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Prinz Rupprecht",
+        "skins": [
+            "The Gate Dragon's Advent"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Prototype Bulin MKII",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Purifier ",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Purple Heart",
+        "skins": [
+            "Goddesses' Promise"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Queen Elizabeth META",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Queen Elizabeth",
+        "skins": [
+            "One Night of the Queen",
+            "Queen of the Campus",
+            "Seaside Orders",
+            "The Queen's Ball",
+            "Yes, Your Maidness!",
+            "Crown Jewel of the Royal Navy"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Quincy",
+        "skins": [
+            "Sizzling Summer, Brisk Breeze"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Radford",
+        "skins": [
+            "Sweet Magic!"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Raleigh",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Ranger",
+        "skins": [],
+        "retrofit": true
+    },
+    {
+        "filename": "Regensburg",
+        "skins": [
+            "Dark Dragon, Brilliant Beach"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Reisalin Stout",
+        "skins": [
+            "Late-Night Alchemist"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Renown META",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Renown",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Reno",
+        "skins": [
+            "Reno Bunnino",
+            "Spring's Inspiration",
+            "Summer Spin-off",
+            "Biggest Little Cheerleader"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Repulse META",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Repulse",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Revenge",
+        "skins": [
+            "The Maid-Knight Charges Forth!"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Richelieu",
+        "skins": [
+            "Evergreen Prophecy",
+            "Fleuron of the Waves"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Richmond",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Rikka Takarada",
+        "skins": [
+            "Blue Sky Station",
+            "Bedroom Attire"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Ritsuko Akizuki",
+        "skins": [
+            "Paddle Showdown - Summer Formation"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Rodney",
+        "skins": [
+            "Future Seaside Admiral",
+            "Immaculate Beauty",
+            "One Day as a Trainee Clerk",
+            "Wedding"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Roma",
+        "skins": [
+            "White Heron of Darkest Night"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Roon muse",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Roon",
+        "skins": [
+            "School Uniform",
+            "Viridescent Lullaby",
+            "Dark Red Grin"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Royal Fortune",
+        "skins": [
+            "Eyes on the Prize",
+            "Treats from the Deep"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Royal Oak",
+        "skins": [
+            "Bashful Oak"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Rurutie",
+        "skins": [
+            "Rurutie (Utawarerumono)"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Ryuuhou",
+        "skins": [
+            "Firebird's New Year Dance"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Ryuujou",
+        "skins": [
+            "Dragon Hunter Ryuujou's Rise",
+            "Slacking Samurai"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Saint Louis",
+        "skins": [
+            "Holy Knight's Resplendence",
+            "Alluring Administrator"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Sakawa",
+        "skins": [
+            "Icy Indulgence",
+            "The Colors of Love",
+            "The Keys of Love"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Salt Lake City",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "San Diego",
+        "skins": [
+            "Sandy Claus",
+            "Wedding"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "San Francisco",
+        "skins": [
+            "Funny Bunny!",
+            "It's Showtime!"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "San Juan",
+        "skins": [
+            "The Longing Princess"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Saraana",
+        "skins": [
+            "Saraana (Utawarerumono)"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Saratoga",
+        "skins": [
+            "Hibiscus-scented Idol",
+            "Seven Seas of Rest",
+            "Silent Night Songstress",
+            "Spring's Opening Act!",
+            "Superstar of the Blue Seas",
+            "The Sweetest Picnic!",
+            "Virtual Idol",
+            "Wedding",
+            "Cup Ramen Ambassador"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Scharnhorst META",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Scharnhorst",
+        "skins": [
+            "Panther und Pflaume"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Scylla",
+        "skins": [
+            "Femme Fatale Fresher"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Seattle",
+        "skins": [
+            "Gorgeous Party",
+            "Sunfish Spell!",
+            "Christmas Party Prep!"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Sendai",
+        "skins": [],
+        "retrofit": true
+    },
+    {
+        "filename": "Serri Glaus",
+        "skins": [
+            "Fairy Dreamer Beneath the Starry Sky"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Sevastopol",
+        "skins": [
+            "More than a Little Drunk"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Seydlitz",
+        "skins": [
+            "Floral Liberation",
+            "Heir of the Vampire Killer"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Shangri-La",
+        "skins": [
+            "Explorer of the Lost World",
+            "Utopia's Collector"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Sheffield META",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Sheffield muse",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Sheffield",
+        "skins": [
+            "Black Crow's Finery",
+            "Bulletborne",
+            "Cloak and Dagger",
+            "A Moment's Respite"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Shigure",
+        "skins": [
+            "Lucky Chocolate",
+            "The Ballroom's Lucky Star",
+            "Attack, I-490!"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Shimakaze",
+        "skins": [
+            "The Island Wind Rests",
+            "The White Rabbit of Wonderland",
+            "World's Speediest Bunny Waitress",
+            "Clumsy Moon Rabbit"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Shimanto",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Shinano",
+        "skins": [
+            "Dreams of the Hazy Moon",
+            "Dreamy White Sands",
+            "Moonlit Chrome"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Shirakami Fubuki",
+        "skins": [
+            "Beachside Fox"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Shiranui",
+        "skins": [
+            "Mooncake Merchant"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Shiratsuyu",
+        "skins": [
+            "Is The Order A Torpedo"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Shirayuki",
+        "skins": [
+            "Bunny Breeder"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Shouhou",
+        "skins": [
+            "Patrolling Witch"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Shoukaku",
+        "skins": [
+            "Sororal Wings",
+            "The Crane that Dances With the Wind"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Shropshire",
+        "skins": [],
+        "retrofit": true
+    },
+    {
+        "filename": "Sims",
+        "skins": [],
+        "retrofit": true
+    },
+    {
+        "filename": "Sirius",
+        "skins": [
+            "Scorching-Hot Seirios",
+            "White Rose",
+            "Azure Horizons"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Smalley",
+        "skins": [
+            "Candy Courier"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Soobrazitelny",
+        "skins": [
+            "The Machinery of Life"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Souryuu META",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Souryuu",
+        "skins": [
+            "The Counselor Girl",
+            "The Crane Amidst the Pines"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "South Dakota",
+        "skins": [
+            "Solo Concert"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Southampton",
+        "skins": [
+            "New Year's Little Knight",
+            "Wedding",
+            "Afternoon Impromptu"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Sovetskaya Belorussiya",
+        "skins": [
+            "Relaxation Stratagem"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Sovetskaya Rossiya",
+        "skins": [
+            "The Lackadaisical Lookout"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Sovetsky Soyuz",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Specialized Bulin Custom MKIII",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Spence",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "St. Louis",
+        "skins": [
+            "Luxurious Wheels",
+            "Spirits in the Snow",
+            "Blue and White Pottery"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Stanly",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Stephen Potter",
+        "skins": [
+            "Chillaxation Station"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Stremitelny",
+        "skins": [
+            "No Snow No Life"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Suffolk",
+        "skins": [],
+        "retrofit": true
+    },
+    {
+        "filename": "Suffren",
+        "skins": [
+            "Impulsive Incident"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Super Gamer Kizuna AI",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Surcouf",
+        "skins": [
+            "Loisirs Balneaires",
+            "Shopping Time!"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Suruga",
+        "skins": [
+            "Hundred Flowers' Auspice",
+            "Straightfaced Model Student",
+            "Uneventful Holiday Greetings"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Sussex",
+        "skins": [
+            "Sunlit Tulips",
+            "Wine and Red Roses"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Suzutsuki",
+        "skins": [
+            "Suzutsuki, Beachside Attendant! ",
+            "Suzutsuki, Hanetsuki Adept!"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Suzuya",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Swiftsure",
+        "skins": [
+            "Midsummer Special Service",
+            "Study Hall Cyclamen",
+            "Beauty of White Jade"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Tai Yuan",
+        "skins": [
+            "The Golden Dragon's Festivities"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Taihou muse",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Taihou-chan",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Taihou",
+        "skins": [
+            "Enraptured Companion",
+            "Forbidden Fruit",
+            "Phoenix's Spring Song",
+            "Seaside Daydreams",
+            "Sweet Time After School",
+            "Wedding"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Takao META",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Takao",
+        "skins": [
+            "Full Throttle Charmer",
+            "School Romanza",
+            "The Lessons of Spring",
+            "Wedding",
+            "Beach Rhapsody"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Tallinn",
+        "skins": [
+            "Nostalgic Pilsner",
+            "As You Say, Ma'am!"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Tamaki",
+        "skins": [
+            "Venus Shower Time"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Tanikaze",
+        "skins": [
+            "Lost Girl and Labyrinth Butterfly",
+            "Sparkly-Clean"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Tartu",
+        "skins": [
+            "Overthinking Summer"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Tashkent muse",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Tashkent",
+        "skins": [
+            "The Blue Snoozer",
+            "The Bound Cruiser"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Tennessee",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Terror",
+        "skins": [
+            "Halloween Terror"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Thatcher",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "The 2nd",
+        "skins": [
+            "Private Time"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Theseus",
+        "skins": [
+            "New Year's White Plumage"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Thuringen",
+        "skins": [
+            "Tidying in the Moonlight"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Ticonderoga",
+        "skins": [
+            "Show Stopper!",
+            "Sunshine Princess"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Ting An",
+        "skins": [
+            "Tender White Jade"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Tirpitz",
+        "skins": [
+            "Iron Blood Snowstorm",
+            "Seasonal Pine and the Frost Flower",
+            "Snow-Melting Summer",
+            "A Vase for the Frost Flower"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Tokino Sora",
+        "skins": [
+            "Under the Clear Sky"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Tone",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Torricelli",
+        "skins": [
+            "Shady Seaside"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Tosa",
+        "skins": [
+            "Hometown Zest"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Trento META",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Trento",
+        "skins": [
+            "Summer's Hotness"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Trieste",
+        "skins": [
+            "Rooftop Lunch Break",
+            "Amore Termico"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "U-101",
+        "skins": [
+            "Ironbrass Trombonist"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "U-110",
+        "skins": [
+            "Garnished Supershark",
+            "Kleiner Hai",
+            "New Year, Small Shark",
+            "Springtime Shark",
+            "A Cute, Sharky Reverie"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "U-1206",
+        "skins": [
+            "Maid Just for You"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "U-37",
+        "skins": [
+            "New Year's Nightingale"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "U-410",
+        "skins": [
+            "Practice Makes Perfect",
+            "Spring Festival Scheme"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "U-47",
+        "skins": [
+            "Eigenen Raum",
+            "Hook, Line, and Sinker",
+            "Rookie Rider",
+            "Sanguine Moon Sojourn",
+            "Urban Maid"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "U-522",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "U-556 META",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "U-556",
+        "skins": [
+            "Party Knight!"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "U-557",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "U-73",
+        "skins": [
+            "New Year's Chemistry",
+            "Science Rules!"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "U-81",
+        "skins": [
+            "Lantern-Lit Full Moon",
+            "Soft Serenade"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "U-96",
+        "skins": [
+            "How Heavy Are Those Barbells",
+            "Secret Gaming Session"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Ulrich von Hutten",
+        "skins": [
+            "Ignition Matrician",
+            "Mayhem Maid"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Umikaze",
+        "skins": [
+            "Soft and Fluffy Therapy",
+            "Baby Steps"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Unicorn",
+        "skins": [
+            "Angelic Night",
+            "Blissful Movement",
+            "Icy-Sweet Storytime",
+            "Little Star Songstress",
+            "Long-Awaited Date",
+            "Prayer of Plum and Snow",
+            "The Gift of Spring",
+            "Wedding",
+            "Angel's Care Time"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Universal Bulin",
+        "skins": [
+            "Universal Enhanced Rigging (Experimental) +a"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Unzen",
+        "skins": [
+            "Sojourn Through Clear Seas"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Urakaze",
+        "skins": [
+            "Seasonal Shogun",
+            "SengokuShredder!"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Uranami",
+        "skins": [
+            "Snow Vanguard"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Uruuru",
+        "skins": [
+            "Uruuru (Utawarerumono)"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Uzuki",
+        "skins": [
+            "Sleepy Uzuki"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Valiant",
+        "skins": [
+            "Mischievous Little Nurse",
+            "Queen Valiant I"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Vampire",
+        "skins": [
+            "Little Devil in White",
+            "Night Princess Idol",
+            "Night Princess's Regalia",
+            "The Breath of Spring",
+            "Wedding"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Vanguard",
+        "skins": [
+            "Half-Hearted Masquerade"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Vauquelin",
+        "skins": [
+            "Innocent Summer Knight",
+            "One-Girl Orchestra",
+            "Otherworldly Adventure"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Vert",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Vestal META",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Vestal",
+        "skins": [
+            "Revigorating Hestia"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Victorious",
+        "skins": [
+            "Guidance of the Spring Goddess",
+            "The Goddess' Day Off"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Vincennes",
+        "skins": [
+            "Leisurely ABC's",
+            "Sweet Dreams"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Vincenzo Gioberti",
+        "skins": [
+            "Fair Lady's Invitation"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Vittorio Veneto",
+        "skins": [
+            "The Flower of La Spezia"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Volga",
+        "skins": [
+            "An Irresistible AR Adventure"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Voroshilov",
+        "skins": [
+            "Devoted as the Warm Snow"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Wakaba",
+        "skins": [
+            "Holiday Special Wakaba!",
+            "A Healthy Dose of Sunshine!"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Wakatsuki",
+        "skins": [
+            "Slapdash Blue Sparrow"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Warspite",
+        "skins": [
+            "Under Pleasure",
+            "Christmas Warrior"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Washington",
+        "skins": [
+            "Jubilant Smile"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Wasp",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Weser",
+        "skins": [
+            "Obsidian Elegance",
+            "Urbane Onyx",
+            "Wave-Washed Paradise"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "West Virginia",
+        "skins": [
+            "Scenic Rhapsody"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "White Heart",
+        "skins": [
+            "Goddesses' Humility"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Wichita",
+        "skins": [
+            "Domineering Witchita",
+            "The General's Banquet"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Wilhelm Heidkamp (Z21)",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Yamakaze",
+        "skins": [
+            "Now for a Magic Trick!"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Yamashiro META",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Yamashiro",
+        "skins": [
+            "Dressy Black Cat",
+            "Holiday Offensive",
+            "Sales Clerk Offensive!",
+            "Street Corner Offensive!",
+            "Summer Offensive",
+            "Vacation Offensive!",
+            "Wedding"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Yat Sen",
+        "skins": [
+            "Paragon of Celestial Grace",
+            "Pristine Leaves, Rich Warmth",
+            "Wedding"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Ying Swei",
+        "skins": [
+            "Frolicking Flowers, Verse I",
+            "Snowy Pine's Warmth"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Yoizuki",
+        "skins": [
+            "Firecrackers and Steamed Buns",
+            "Sports Festival Preparations"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Yorck",
+        "skins": [
+            "Breaker under the Blood Moon"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Yorktown II",
+        "skins": [
+            "Bright-Sky Mermaid"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Yorktown META",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Yorktown",
+        "skins": [
+            "Evening I Can't Remember",
+            "Saintly Wings",
+            "Wedding"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "York",
+        "skins": [
+            "Summoner from the Azure Depths",
+            "Truth Seeker",
+            "Wedding"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Yukikaze",
+        "skins": [
+            "Sovereign of the Swing",
+            "Wedding",
+            "Winter's Snowy Wind"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Yume Minami",
+        "skins": [
+            "Morning Routine",
+            "A Dream Upon an Open Windowsill"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Yura",
+        "skins": [
+            "We are Succubi"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Yuubari",
+        "skins": [],
+        "retrofit": true
+    },
+    {
+        "filename": "Yuudachi",
+        "skins": [
+            "Meat Bun Hunter",
+            "Shogun of Snowballs",
+            "Wedding",
+            "Woofy Floofy Christmas Night",
+            "Carnivore Carnival!"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Yuugure",
+        "skins": [
+            "Evening Flower",
+            "Fun in the Sun",
+            "Maid-In-Training!",
+            "Summer Festival Shopping",
+            "Twilight Blossom"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Z16",
+        "skins": [
+            "Guaranteed Grand Slam!"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Z18",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Z23",
+        "skins": [
+            "Cafe Trainee @New Base",
+            "Fries, and smiles!",
+            "Keeper of the Comf-Fort",
+            "Perfect Smile",
+            "Philosophy Sensei",
+            "Serious Idol @Acting Manager!",
+            "Tanz der Blumen",
+            "The Banquet's Honor Student",
+            "The Eyecatch in the Rye",
+            "Upgrade Failure!",
+            "Wedding",
+            "Breezy Doubles"
+        ],
+        "retrofit": true
+    },
+    {
+        "filename": "Z24",
+        "skins": [
+            "Festival-going Fiend",
+            "The Devil on the Court"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Z25",
+        "skins": [
+            "Hot Summer's Cool Breeze"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Z26",
+        "skins": [
+            "Sharing is Caring"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Z28",
+        "skins": [
+            "New Year Smorgasbord!",
+            "Sylvan Celebration"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Z2",
+        "skins": [
+            "High-Rise, High-Style",
+            "Of Koi and Evening Hues"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Z35",
+        "skins": [
+            "Projekt Kirschblute"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Z36",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Z46",
+        "skins": [
+            "Girls' Relay",
+            "Her First Summer",
+            "Jianzhi Fantasia",
+            "Star-LitChocolate",
+            "Chronicles of the Dust Wars"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Zara",
+        "skins": [
+            "Poolside Coincidence"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Zeppy",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Zuihou",
+        "skins": [],
+        "retrofit": false
+    },
+    {
+        "filename": "Zuikaku",
+        "skins": [
+            "The Wind's True Name",
+            "Ceremonial Crane"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Agir",
+        "skins": [
+            "Golden Dragon Among Auspicious Clouds",
+            "Iron Blood's Dragon Maid"
+        ],
+        "retrofit": false
+    },
+    {
+        "filename": "Emile Bertin",
+        "skins": [
+            "Gilded Dance",
+            "Maid Fantastique",
+            "Cote d'Azur"
+        ],
+        "retrofit": true
+    }
+]
